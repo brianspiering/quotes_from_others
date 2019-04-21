@@ -65,7 +65,7 @@ The remaining 10 percent of the code accounts for the other 90 percent of the de
 
 "Make it work,  
 Make it right,  
-Make it fast. 
+Make it fast.  
 In that order."  
 — Ken Beck
 
