@@ -63,7 +63,10 @@ The remaining 10 percent of the code accounts for the other 90 percent of the de
 "You can't make it better until you make it work."  
 — McBryan's Law
 
-"Make it work, Make it right, Make it fast. In that order."  
+"Make it work,  
+Make it right,  
+Make it fast. 
+In that order."  
 — Ken Beck
 
 "We have to realize that computers are simulators and then figure out what to simulate."  
