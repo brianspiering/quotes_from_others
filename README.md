@@ -16,7 +16,7 @@ Data
 "I like my data large, my algorithms simple, and my labels weak."  
 — Andrej Karpathy
 
-"I'm not even sure they are sentient — I mean, they're, what, a ten—million—neuron network hooked—up to a syntax engine and a crappy knowledge base? What kind of basis for intelligence is that?"  
+"I'm not even sure they are sentient - I mean, they're, what, a ten-million-neuron network hooked-up to a syntax engine and a crappy knowledge base? What kind of basis for intelligence is that?"  
 — Charles Stross, Accelerando
 
 "Get the data model right and everything else falls into place."  
@@ -83,7 +83,7 @@ Good programmers worry about data structures and their relationships."
 — Adam MacBeth
 
 "We reject: kings, presidents, and voting.    
-We believe in: rough consensus and running code"  
+We believe in: rough consensus and running code."  
 — Dave Clark
 
 "Be conservative in what you send, be liberal in what you accept."  
@@ -113,7 +113,7 @@ Life
 "It’s easier to act your way into a new way of thinking, than think your way into a new way of acting."  
 — Unknown
 
-"It doesn't get any easier, you just get faster." 
+"It doesn't get any easier, you just get faster."   
 — Greg LeMond
 
 "For every complex problem there is an answer that is clear, simple, and wrong."  
@@ -125,7 +125,7 @@ Life
 "Perfectionism is the purest form of procrastination."   
 — Lanny Bassham
 
-"The master has failed more times than the beginner has even tried."
+"The master has failed more times than the beginner has even tried."  
 — Tim Notke
 
 "The only reason for time is so that everything doesn't happen at once."   
