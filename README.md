@@ -106,6 +106,9 @@ Rey: "Why? I've seen your daily routine; you are not busy."
 "Any drill that 75% of the people cannot catch on to right away has to be eliminated, no matter how good it is."  
 — Steve Baccari
 
+"We are currently preparing students for jobs that don’t yet exist, using technologies that haven’t been invented, in order to solve problems we don’t even know are problems yet."  
+—  Richard Riley  
+
 ----
 Life
 -----
