@@ -140,6 +140,9 @@ Life
 "Hard choices, easy life. Easy choices, hard life."  
 – Jerzy Gregorek
 
+“It is better to be approximately right, than precisely wrong.”
+– Warren Buffet
+
 "The most important things are the hardest to say, because words diminish them."   
 — Stephen King
 
