@@ -122,11 +122,20 @@ Life
 "It doesn't get any easier, you just get faster."   
 — Greg LeMond
 
+"There is no amount of work you could do today that will offset the progress you could have made in a properly structured week."   
+— Chris Sommer
+
 "For every complex problem there is an answer that is clear, simple, and wrong."  
 — H. L. Mencken
 
 "Plan in decades. Think in years. Work in months. Live in days."  
 — Nic Haralambous
+
+“If it is important, do it every day. If it’s not important, don’t do it at all.”    
+— Dan John, Never Let Go: A Philosophy of Lifting, Living and Learning
+
+“Don't paint ceiling before laying the foundation.”   
+— Dan John
 
 "Perfectionism is the purest form of procrastination."   
 — Lanny Bassham
