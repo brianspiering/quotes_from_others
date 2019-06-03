@@ -22,6 +22,10 @@ Data
 "Get the data model right and everything else falls into place."  
 — ams6110
 
+“Being data-driven is like navigating by watching the rearview mirror.   
+Being model-driven is like using GPS.”   
+— Nick Elprin
+
 "All data is linear when plotted a log log plot with fat marker."  
 — Mar's Law
 
