@@ -138,7 +138,7 @@ Life
 “If it is important, do it every day. If it’s not important, don’t do it at all.”    
 — Dan John, Never Let Go: A Philosophy of Lifting, Living and Learning
 
-“Don't paint ceiling before laying the foundation.”   
+“If you haven't built the foundation, don't paint the ceiling.”   
 — Dan John
 
 "Perfectionism is the purest form of procrastination."   
