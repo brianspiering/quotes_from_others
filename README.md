@@ -58,6 +58,9 @@ Coding
 The remaining 10 percent of the code accounts for the other 90 percent of the development time."  
 — Tom Cargill
 
+"Smart data structures and dumb code works a lot better than the other way around."   
+— Eric S. Raymond, The Cathedral and The Bazaar.
+
 "The purpose of computing is insight, not numbers."  
 — Richard Hamming
 
