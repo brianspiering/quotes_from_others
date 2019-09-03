@@ -116,6 +116,14 @@ Rey: "Why? I've seen your daily routine; you are not busy."
 "We are currently preparing students for jobs that don’t yet exist, using technologies that haven’t been invented, in order to solve problems we don’t even know are problems yet."  
 —  Richard Riley  
 
+
+"When encountering your weaknesses, you have four choices:     
+You can deny them (which is what most people do).     
+You can accept them and work at them in order to try to convert them to strengths (which might or might not work depending on your ability to change).     
+You can accept your weaknesses and find ways around them.     
+Or, you can change what you are going after. "     
+— Ray Dalio 
+
 ----
 Life
 -----
