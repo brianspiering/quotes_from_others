@@ -140,8 +140,17 @@ Life
 "There is no amount of work you could do today that will offset the progress you could have made in a properly structured week."   
 — Chris Sommer
 
+“I’m no genius, but I’m smart in spots and I stay around those spots.”  
+— Watson, Sr
+
 "For every complex problem there is an answer that is clear, simple, and wrong."  
 — H. L. Mencken
+
+"There is more truth in the lightning that defines our path a handful of times in our life than in all of the ordinary light combined."  
+— Todd Skinner
+
+“Maybe we have to break everything to make something better out of ourselves.”   
+— Chuck Palahniuk
 
 "Plan in decades. Think in years. Work in months. Live in days."  
 — Nic Haralambous
