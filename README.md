@@ -26,7 +26,7 @@ Data
 Being model-driven is like using GPS.”   
 — Nick Elprin
 
-"All data is linear when plotted a log log plot with fat marker."  
+"All data is linear when plotted on a log-log plot with fat marker."  
 — Mar's Law
 
 "In God we trust. All others must bring data."   
@@ -59,7 +59,7 @@ The remaining 10 percent of the code accounts for the other 90 percent of the de
 — Tom Cargill
 
 "Smart data structures and dumb code works a lot better than the other way around."   
-— Eric S. Raymond, The Cathedral and The Bazaar.
+— Eric S. Raymond, The Cathedral and The Bazaar
 
 "The purpose of computing is insight, not numbers."  
 — Richard Hamming
@@ -116,12 +116,11 @@ Rey: "Why? I've seen your daily routine; you are not busy."
 "We are currently preparing students for jobs that don’t yet exist, using technologies that haven’t been invented, in order to solve problems we don’t even know are problems yet."  
 —  Richard Riley  
 
-
 "When encountering your weaknesses, you have four choices:     
-You can deny them (which is what most people do).     
-You can accept them and work at them in order to try to convert them to strengths (which might or might not work depending on your ability to change).     
-You can accept your weaknesses and find ways around them.     
-Or, you can change what you are going after. "     
+1. You can deny them (which is what most people do).     
+2. You can accept them and work at them in order to try to convert them to strengths (which might or might not work depending on your ability to change).     
+3. You can accept your weaknesses and find ways around them.     
+4. Or, you can change what you are going after. "     
 — Ray Dalio 
 
 ----
@@ -141,7 +140,7 @@ Life
 — Chris Sommer
 
 “I’m no genius, but I’m smart in spots and I stay around those spots.”  
-— Watson, Sr
+— Watson, Sr.
 
 "For every complex problem there is an answer that is clear, simple, and wrong."  
 — H. L. Mencken
@@ -160,6 +159,9 @@ Life
 
 “If you haven't built the foundation, don't paint the ceiling.”   
 — Dan John
+
+"Repetition is the mother of implementation."   
+— Dan John  
 
 "Perfectionism is the purest form of procrastination."   
 — Lanny Bassham
@@ -188,9 +190,6 @@ Life
 "The future is already here—it’s just not evenly distributed."   
 — William Gibson
 
-"Repetition is the mother of implementation."   
-— Dan John  
-
 "What we have before us are some breathtaking opportunities disguised as insoluble problems."   
 — John Gardner
 
@@ -201,7 +200,6 @@ Life
 
 A Panda — By all laws of nature they should no longer exist, but due to human intervention, they do."  
 — Internet forums
-
 
 -----
 Other sources
