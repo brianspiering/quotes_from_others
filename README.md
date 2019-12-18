@@ -201,6 +201,9 @@ Life
 A Panda — By all laws of nature they should no longer exist, but due to human intervention, they do."  
 — Internet forums
 
+“The real problem of humanity is the following: we have paleolithic emotions; medieval institutions; and god-like technology. And it is terrifically dangerous, and it is now approaching a point of crisis overall."  
+— E. O. Wilson  
+
 -----
 Other sources
 -----
