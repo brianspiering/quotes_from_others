@@ -123,6 +123,11 @@ Rey: "Why? I've seen your daily routine; you are not busy."
 4. Or, you can change what you are going after. "     
 — Ray Dalio 
 
+"Will McAvoy: You have ink on your face.  
+Mackenzie MacHale: I WORK WITH PENS!"  
+(I have often have dry earser marker on me when I teach)    
+— "The Newsroom" 
+
 ----
 Life
 -----
