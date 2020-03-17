@@ -136,6 +136,9 @@ Mackenzie MacHale: I WORK WITH PENS!"
 Life
 -----
 
+“There was nothing to do except to work hard, struggle for food, visit quietly with friends, and wait for peace.”   
+— Picasso during the WWII German occupation of Paris  
+
 "The best thing that can happen to a human being is to find a problem, to fall in love with that problem, and to live trying to solve that problem, unless another problem even more lovable appears."  
 — Karl Popper
 
