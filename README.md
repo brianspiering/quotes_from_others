@@ -13,6 +13,10 @@ Table of Contents
 Data
 ----
 
+"Q: You aren't an epidemiologist. Why should I listen to you?"   
+"You probably shouldn't. I'm a computer scientist and I've spend decades analysing data, but you should talk to a real epidemiologist if you want to understand the underlying causes. Computer scientists do know a lot about exponential growth though."   
+http://nrg.cs.ucl.ac.uk/mjh/covid19/   
+
 "I like my data large, my algorithms simple, and my labels weak."  
 — Andrej Karpathy
 
