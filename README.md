@@ -120,6 +120,9 @@ Rey: "Why? I've seen your daily routine; you are not busy."
 "We are currently preparing students for jobs that don’t yet exist, using technologies that haven’t been invented, in order to solve problems we don’t even know are problems yet."  
 —  Richard Riley  
 
+"“Never lecture on something students can read instead.”   
+— David Pengelley from _From lecture to active learning: Rewards for all, and is it really so difficult?_
+
 "When encountering your weaknesses, you have four choices:     
 1. You can deny them (which is what most people do).     
 2. You can accept them and work at them in order to try to convert them to strengths (which might or might not work depending on your ability to change).     
@@ -167,7 +170,7 @@ Life
 — Nic Haralambous
 
 “If it is important, do it every day. If it’s not important, don’t do it at all.”    
-— Dan John, Never Let Go: A Philosophy of Lifting, Living and Learning
+— Dan John from _Never Let Go: A Philosophy of Lifting, Living and Learning_
 
 “If you haven't built the foundation, don't paint the ceiling.”   
 — Dan John
