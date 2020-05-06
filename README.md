@@ -33,6 +33,10 @@ Being model-driven is like using GPS.”
 "All data is linear when plotted on a log-log plot with fat marker."  
 — Mar's Law
 
+"As you know from teaching introductory statistics, 30 is infinity."    
+— Andrew Gelman   
+Many other statistical gems [here](http://www.stat.columbia.edu/~gelman/book/gelman_quotes.pdf)   
+
 "In God we trust. All others must bring data."   
 – W. Edwards Deming
 
