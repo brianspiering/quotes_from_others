@@ -53,6 +53,9 @@ Coding
 "I try to minimize the amount of code I write. Each line of code is just another chance for a typo."  
 — A smart, unknown programmer
 
+"Computer science education cannot make anybody an expert programmer any more than studying brushes and pigment can make somebody an expert painter"  
+— Eric Raymond, author of The New Hacker's Dictionary
+
 "Engineers believe that if it ain’t broke, it doesn’t have enough features yet."  
 — Scott Adams
 
