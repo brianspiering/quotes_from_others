@@ -87,6 +87,10 @@ Make it fast.
 In that order."  
 — Ken Beck
 
+"If you constantly unpacked everything for deeper understanding, you're never going to get anything done.   
+If you don't unpack understanding when you need to, you'll do the wrong thing."  
+— Jim Keller   
+
 "We have to realize that computers are simulators and then figure out what to simulate."  
 — Alan Kay
 
