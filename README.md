@@ -131,7 +131,7 @@ Rey: "Why? I've seen your daily routine; you are not busy."
 "We are currently preparing students for jobs that don’t yet exist, using technologies that haven’t been invented, in order to solve problems we don’t even know are problems yet."  
 —  Richard Riley  
 
-"“Never lecture on something students can read instead.”   
+"Never lecture on something students can read instead."   
 — David Pengelley from _From lecture to active learning: Rewards for all, and is it really so difficult?_
 
 "When encountering your weaknesses, you have four choices:     
@@ -140,6 +140,9 @@ Rey: "Why? I've seen your daily routine; you are not busy."
 3. You can accept your weaknesses and find ways around them.     
 4. Or, you can change what you are going after. "     
 — Ray Dalio 
+
+"The skill of writing is to create a context in which other people can think."  
+— Edwin Schlossberg
 
 "Will McAvoy: You have ink on your face.  
 Mackenzie MacHale: I WORK WITH PENS!"  
@@ -192,6 +195,9 @@ Life
 "Perfectionism is the purest form of procrastination."   
 — Lanny Bassham
 
+"An invention has to make sense in the world in which it is finished, not the world in which it is started."  
+- Ray Kurzweil
+
 "The master has failed more times than the beginner has even tried."  
 — Tim Notke
 
@@ -203,9 +209,6 @@ Life
 
 “It is better to be approximately right, than precisely wrong.”
 – Warren Buffet
-
-"The most important things are the hardest to say, because words diminish them."   
-— Stephen King
 
 "If it is important, do it every day. If it isn’t, don’t do it at all."   
 — Dan Gable
@@ -229,6 +232,9 @@ A Panda — By all laws of nature they should no longer exist, but due to human 
 
 “The real problem of humanity is the following: we have paleolithic emotions; medieval institutions; and god-like technology. And it is terrifically dangerous, and it is now approaching a point of crisis overall."  
 — E. O. Wilson  
+
+"The most important things are the hardest to say, because words diminish them."   
+— Stephen King
 
 -----
 Other sources
