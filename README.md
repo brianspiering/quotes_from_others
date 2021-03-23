@@ -125,14 +125,14 @@ Luke: "You need a teacher. I won't teach you."
 Rey: "Why? I've seen your daily routine; you are not busy."  
 — Star Wars, The Force Awakens
 
-"Any drill that 75% of the people cannot catch on to right away has to be eliminated, no matter how good it is."  
-— Steve Baccari
-
 "We are currently preparing students for jobs that don’t yet exist, using technologies that haven’t been invented, in order to solve problems we don’t even know are problems yet."  
 —  Richard Riley  
 
 "Never lecture on something students can read instead."   
 — David Pengelley from _From lecture to active learning: Rewards for all, and is it really so difficult?_
+
+"I've got a lot to teach but even more to learn."   
+— Slug from Atmosphere
 
 "When encountering your weaknesses, you have four choices:     
 1. You can deny them (which is what most people do).     
@@ -140,6 +140,9 @@ Rey: "Why? I've seen your daily routine; you are not busy."
 3. You can accept your weaknesses and find ways around them.     
 4. Or, you can change what you are going after. "     
 — Ray Dalio 
+
+"Any drill that 75% of the people cannot catch on to right away has to be eliminated, no matter how good it is."  
+— Steve Baccari
 
 "The skill of writing is to create a context in which other people can think."  
 — Edwin Schlossberg
