@@ -225,6 +225,9 @@ Life
 "The future is already here—it’s just not evenly distributed."   
 — William Gibson
 
+"Your lemons ripen first, you have to wait for juicy plums."  
+— Classic investing wisdom
+
 "What we have before us are some breathtaking opportunities disguised as insoluble problems."   
 — John Gardner
 
@@ -237,7 +240,7 @@ A Panda — By all laws of nature they should no longer exist, but due to human 
 — Internet forums
 
 “The real problem of humanity is the following: we have paleolithic emotions; medieval institutions; and god-like technology. And it is terrifically dangerous, and it is now approaching a point of crisis overall."  
-— E. O. Wilson  
+— E. O. Wilson
 
 "The most important things are the hardest to say, because words diminish them."   
 — Stephen King
