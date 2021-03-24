@@ -169,7 +169,10 @@ Life
 — Greg LeMond
 
 "There is no amount of work you could do today that will offset the progress you could have made in a properly structured week."   
-— Chris Sommer
+— Chris Sommer  
+
+“The difference between theory and practice is always greater in practice than it is in theory.”  
+— Unknown
 
 “I’m no genius, but I’m smart in spots and I stay around those spots.”  
 — Watson, Sr.
