@@ -250,5 +250,6 @@ Other sources
 -----
 
 - [Programming Bumper Sticker / Programming Pearls](http://www.bowdoin.edu/~ltoma/teaching/cs340/spring05/coursestuff/Bentley_BumperSticker.pdf)
+- [Programming quotes curated by Ronalds Vilciņš](https://www.ronaldsvilcins.com/2020/12/10/programming-quotes/)
 - [Peter Norvig's quotations](https://norvig.com/quotations.html)  
 - [Akin's Laws of Spacecraft Design](https://spacecraft.ssl.umd.edu/akins_laws.html)
