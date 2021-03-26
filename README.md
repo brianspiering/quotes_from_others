@@ -104,7 +104,7 @@ Good programmers worry about data structures and their relationships."
 "I’m not a big visionary. I’m a very plodding pedestrian engineer, and I try to keep my eyes firmly on the ground. I’ll let others make the big predictions about where we’ll be in 5, 10 or 25 years—I think we’ll do fine as long as we keep track of all the small day—to—day details, and try to do the best we can."  
 — Linus Torvalds 
 
-"The best new ideas live at the boundary between the real world and software."
+"The best new ideas live at the boundary between the real world and software."  
 — Adam MacBeth
 
 "We reject: kings, presidents, and voting.    
