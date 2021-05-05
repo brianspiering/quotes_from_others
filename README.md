@@ -134,6 +134,9 @@ Rey: "Why? I've seen your daily routine; you are not busy."
 "I've got a lot to teach but even more to learn."   
 — Slug from Atmosphere
 
+"Sufficiently advanced cheating is indistinguishable from learning."  
+— Jan Schaumann @jschauma  
+
 "When encountering your weaknesses, you have four choices:     
 1. You can deny them (which is what most people do).     
 2. You can accept them and work at them in order to try to convert them to strengths (which might or might not work depending on your ability to change).     
