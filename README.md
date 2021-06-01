@@ -177,7 +177,7 @@ Life
 “The difference between theory and practice is always greater in practice than it is in theory.”  
 — Unknown
 
-" I'm here to help - if my help's not appreciated then lotsa luck, gentlemen."  
+"I'm here to help - if my help's not appreciated then lotsa luck, gentlemen."  
 — The Wolf from Pulp Fiction   
 
 “I’m no genius, but I’m smart in spots and I stay around those spots.”  
