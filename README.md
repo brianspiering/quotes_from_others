@@ -180,6 +180,9 @@ Life
 "I'm here to help - if my help's not appreciated then lotsa luck, gentlemen."  
 — The Wolf from Pulp Fiction   
 
+"Not my circus, not my monkeys."  
+— Polish proverb - Nie mój cyrk, nie moje małpy
+
 “I’m no genius, but I’m smart in spots and I stay around those spots.”  
 — Watson, Sr.
 
