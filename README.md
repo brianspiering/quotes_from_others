@@ -150,10 +150,10 @@ Rey: "Why? I've seen your daily routine; you are not busy."
 "The skill of writing is to create a context in which other people can think."  
 — Edwin Schlossberg
 
-"Will McAvoy: You have ink on your face.  
-Mackenzie MacHale: I WORK WITH PENS!"  
+Will McAvoy: "You have ink on your face."  
+Mackenzie MacHale: "I WORK WITH PENS!"  
 (I have often have dry earser marker on me when I teach)    
-— "The Newsroom" 
+— The Newsroom
 
 ----
 Life
@@ -177,6 +177,9 @@ Life
 “The difference between theory and practice is always greater in practice than it is in theory.”  
 — Unknown
 
+"A little bit of slope makes up for a lot of y-intercept"  
+— John Ousterhout [source](https://gist.github.com/gtallen1187/e83ed02eac6cc8d7e185)
+
 "I'm here to help - if my help's not appreciated then lotsa luck, gentlemen."  
 — The Wolf from Pulp Fiction   
 
@@ -198,8 +201,8 @@ Life
 "Plan in decades. Think in years. Work in months. Live in days."  
 — Nic Haralambous
 
-“If it is important, do it every day. If it’s not important, don’t do it at all.”    
-— Dan John from _Never Let Go: A Philosophy of Lifting, Living and Learning_
+"If it is important, do it every day. If it isn’t, don’t do it at all."   
+— Dan Gable
 
 “If you haven't built the foundation, don't paint the ceiling.”   
 — Dan John
@@ -224,9 +227,6 @@ Life
 
 “It is better to be approximately right, than precisely wrong.”
 – Warren Buffet
-
-"If it is important, do it every day. If it isn’t, don’t do it at all."   
-— Dan Gable
 
 "Only recruit two things: speed and smarts. You can teach everything else."   
 — Ralph Maughan
@@ -255,7 +255,7 @@ A Panda — By all laws of nature they should no longer exist, but due to human 
 — Stephen King
 
 -----
-Other sources
+Other collections of quotes
 -----
 
 - [Programming Bumper Sticker / Programming Pearls](http://www.bowdoin.edu/~ltoma/teaching/cs340/spring05/coursestuff/Bentley_BumperSticker.pdf)
