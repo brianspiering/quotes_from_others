@@ -1,6 +1,9 @@
 Quotes From Others
 =======
 
+"I don't need an inspirational quote. I need coffee."
+— A prohet
+
 Table of Contents
 ----
 
