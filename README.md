@@ -56,7 +56,7 @@ Coding
 "I try to minimize the amount of code I write. Each line of code is just another chance for a typo."  
 — A smart, unknown programmer
 
-"Computer science education cannot make anybody an expert programmer any more than studying brushes and pigment can make somebody an expert painter"  
+"Computer science education cannot make anybody an expert programmer any more than studying brushes and pigment can make somebody an expert painter."  
 — Eric Raymond, author of The New Hacker's Dictionary
 
 "Engineers believe that if it ain’t broke, it doesn’t have enough features yet."  
@@ -74,6 +74,13 @@ The remaining 10 percent of the code accounts for the other 90 percent of the de
 
 "Smart data structures and dumb code works a lot better than the other way around."   
 — Eric S. Raymond, The Cathedral and The Bazaar
+
+"Bad programmers worry about the code.   
+Good programmers worry about data structures and their relationships."  
+— Linus Torvalds
+
+"2% of what we do is interesting. 98% is sort, select, sum."   
+— A wise old programmer   
 
 "The purpose of computing is insight, not numbers."  
 — Richard Hamming
@@ -99,10 +106,6 @@ If you don't unpack understanding when you need to, you'll do the wrong thing."
 
 "The art of debugging is figuring out what you really told your program to do rather than what you thought you told it to do."  
 — Andrew Singer
-
-"Bad programmers worry about the code.   
-Good programmers worry about data structures and their relationships."  
-— Linus Torvalds
 
 "I’m not a big visionary. I’m a very plodding pedestrian engineer, and I try to keep my eyes firmly on the ground. I’ll let others make the big predictions about where we’ll be in 5, 10 or 25 years—I think we’ll do fine as long as we keep track of all the small day—to—day details, and try to do the best we can."  
 — Linus Torvalds 
