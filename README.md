@@ -177,6 +177,9 @@ Life
 "It doesn't get any easier, you just get faster."   
 — Greg LeMond
 
+"Behind mountains are more mountains."  
+— Creole proverb  
+
 "There is no amount of work you could do today that will offset the progress you could have made in a properly structured week."   
 — Chris Sommer  
 
