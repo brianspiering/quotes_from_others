@@ -79,7 +79,8 @@ The remaining 10 percent of the code accounts for the other 90 percent of the de
 Good programmers worry about data structures and their relationships."  
 — Linus Torvalds
 
-"2% of what we do is interesting. 98% is sort, select, sum."   
+"2% of what we do is interesting.  
+98% is sort, select, sum."   
 — A wise old programmer   
 
 "The purpose of computing is insight, not numbers."  
@@ -107,7 +108,7 @@ If you don't unpack understanding when you need to, you'll do the wrong thing."
 "The art of debugging is figuring out what you really told your program to do rather than what you thought you told it to do."  
 — Andrew Singer
 
-"I’m not a big visionary. I’m a very plodding pedestrian engineer, and I try to keep my eyes firmly on the ground. I’ll let others make the big predictions about where we’ll be in 5, 10 or 25 years—I think we’ll do fine as long as we keep track of all the small day—to—day details, and try to do the best we can."  
+"I’m not a big visionary. I’m a very plodding pedestrian engineer, and I try to keep my eyes firmly on the ground. I’ll let others make the big predictions about where we’ll be in 5, 10 or 25 years—I think we’ll do fine as long as we keep track of all the small day-to-day details, and try to do the best we can."  
 — Linus Torvalds 
 
 "The best new ideas live at the boundary between the real world and software."  
@@ -223,7 +224,7 @@ Life
 — Lanny Bassham
 
 "An invention has to make sense in the world in which it is finished, not the world in which it is started."  
-- Ray Kurzweil
+— Ray Kurzweil
 
 "The master has failed more times than the beginner has even tried."  
 — Tim Notke
@@ -267,7 +268,7 @@ A Panda — By all laws of nature they should no longer exist, but due to human 
 Other collections of quotes
 -----
 
-- [Programming Bumper Sticker / Programming Pearls](http://www.bowdoin.edu/~ltoma/teaching/cs340/spring05/coursestuff/Bentley_BumperSticker.pdf)
+- [Programming Bumper Stickers / Programming Pearls](http://www.bowdoin.edu/~ltoma/teaching/cs340/spring05/coursestuff/Bentley_BumperSticker.pdf)
 - [Programming quotes curated by Ronalds Vilciņš](https://www.ronaldsvilcins.com/2020/12/10/programming-quotes/)
 - [Peter Norvig's quotations](https://norvig.com/quotations.html)  
 - [Akin's Laws of Spacecraft Design](https://spacecraft.ssl.umd.edu/akins_laws.html)
