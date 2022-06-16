@@ -259,6 +259,9 @@ Life
 "A bet is a tax on bullshit.”  
 — Alex Tabarrok
 
+"The true skill is not coming up with good ideas, it's being clever and creative enough to figure out quick, cheap and easy ways to test all your bad ideas."  
+— Marc Randolph  
+
 "What's the name for a company that can be valued billion dollars before they see a dime in revenue?
 
 A Panda — By all laws of nature they should no longer exist, but due to human intervention, they do."  
