@@ -2,7 +2,7 @@ Quotes From Others
 =======
 
 "I don't need an inspirational quote. I need coffee."  
-— A prohet
+— A prophet
 
 Table of Contents
 ----
@@ -15,10 +15,6 @@ Table of Contents
 ----
 Data
 ----
-
-"Q: You aren't an epidemiologist. Why should I listen to you?"   
-"A: You probably shouldn't. I'm a computer scientist and I've spend decades analysing data, but you should talk to a real epidemiologist if you want to understand the underlying causes. Computer scientists do know a lot about exponential growth though."   
-http://nrg.cs.ucl.ac.uk/mjh/covid19/   
 
 "I like my data large, my algorithms simple, and my labels weak."  
 — Andrej Karpathy
@@ -39,6 +35,10 @@ Being model-driven is like using GPS.”
 "As you know from teaching introductory statistics, 30 is infinity."    
 — Andrew Gelman   
 Many other statistical gems [here](http://www.stat.columbia.edu/~gelman/book/gelman_quotes.pdf)   
+
+"Q: You aren't an epidemiologist. Why should I listen to you?"   
+"A: You probably shouldn't. I'm a computer scientist and I've spend decades analysing data, but you should talk to a real epidemiologist if you want to understand the underlying causes. Computer scientists do know a lot about exponential growth though."   
+http://nrg.cs.ucl.ac.uk/mjh/covid19/  
 
 "In God we trust. All others must bring data."   
 – W. Edwards Deming
@@ -187,8 +187,11 @@ Life
 "There is no amount of work you could do today that will offset the progress you could have made in a properly structured week."   
 — Chris Sommer  
 
-“The difference between theory and practice is always greater in practice than it is in theory.”  
+"The difference between theory and practice is always greater in practice than it is in theory."
 — Unknown
+
+"Living is worthwhile if one can contribute in some small way to this endless chain of progress."   
+— Paul Dirac
 
 "A little bit of slope makes up for a lot of y-intercept."  
 — John Ousterhout [source](https://gist.github.com/gtallen1187/e83ed02eac6cc8d7e185)
