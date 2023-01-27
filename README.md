@@ -276,13 +276,13 @@ A Panda — By all laws of nature they should no longer exist, but due to human 
 “The real problem of humanity is the following: we have paleolithic emotions; medieval institutions; and god-like technology. And it is terrifically dangerous, and it is now approaching a point of crisis overall."  
 — E. O. Wilson
 
-"Start where you are
-Use what you have
+"Start where you are  
+Use what you have  
 Help who you can"  
 — Greg Wilson
 
-"Do what you can, 
-with what you've got, 
+"Do what you can,   
+with what you've got,   
 where you are."  
 — Stoic philosophy
 
