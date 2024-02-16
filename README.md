@@ -158,7 +158,7 @@ Rey: "Why? I've seen your daily routine; you are not busy."
 — Edwin Schlossberg
 
 "Teaching, like writing, has helped me develop and clarify my own thoughts. Charlie [Munger] calls this phenomenon the orangutan effect: If you sit down with an orangutan and carefully explain to it one of your cherished ideas, you may leave behind a puzzled primate, but will yourself exit thinking more clearly."   
-- Warren Buffet, Berkshire Hathaway 2021 Annual Report  
+— Warren Buffet, Berkshire Hathaway 2021 Annual Report  
 
 Will McAvoy: "You have ink on your face."  
 Mackenzie MacHale: "I WORK WITH PENS!"  
