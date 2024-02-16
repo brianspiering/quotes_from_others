@@ -244,7 +244,7 @@ Life
 "Hard choices, easy life. Easy choices, hard life."  
 – Jerzy Gregorek
 
-“It is better to be approximately right, than precisely wrong.”
+“It is better to be approximately right, than precisely wrong.”  
 – Warren Buffet
 
 "Only recruit two things: speed and smarts. You can teach everything else."   
