@@ -202,7 +202,7 @@ Life
 "Not my circus, not my monkeys."  
 — Polish proverb - Nie mój cyrk, nie moje małpy
 
-"The clock does not stop, of course, but we do not hear the ticking". 
+"The clock does not stop, of course, but we do not hear the ticking".  
 — Gary Eberle
 
 “I’m no genius, but I’m smart in spots and I stay around those spots.”  
