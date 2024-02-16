@@ -265,32 +265,31 @@ Life
 "The true skill is not coming up with good ideas, it's being clever and creative enough to figure out quick, cheap and easy ways to test all your bad ideas."  
 — Marc Randolph  
 
-"What's the name for a company that can be valued billion dollars before they see a dime in revenue?
-
+"What's the name for a company that can be valued billion dollars before they see a dime in revenue?  
 A Panda — By all laws of nature they should no longer exist, but due to human intervention, they do."  
 — Internet forums
 
 "Do not rule over imaginary kingdoms of endlessly proliferating possibilities."  
-— Tibetan Saying , One Dharma by Joseph Goldstein
+— Tibetan Saying, One Dharma by Joseph Goldstein
 
 “The real problem of humanity is the following: we have paleolithic emotions; medieval institutions; and god-like technology. And it is terrifically dangerous, and it is now approaching a point of crisis overall."  
 — E. O. Wilson
-
-"Start where you are  
-Use what you have  
-Help who you can"  
-— Greg Wilson
 
 "Do what you can,   
 with what you've got,   
 where you are."  
 — Stoic philosophy
 
+"Start where you are  
+Use what you have  
+Help who you can"  
+— Greg Wilson
+
 "The most important things are the hardest to say, because words diminish them."   
 — Stephen King
 
 -----
-Other collections of quotes
+Collections of other quotes
 -----
 
 - [Programming Bumper Stickers / Programming Pearls](http://www.bowdoin.edu/~ltoma/teaching/cs340/spring05/coursestuff/Bentley_BumperSticker.pdf)
