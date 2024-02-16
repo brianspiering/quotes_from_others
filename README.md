@@ -36,10 +36,6 @@ Being model-driven is like using GPS.”
 — Andrew Gelman   
 Many other statistical gems [here](http://www.stat.columbia.edu/~gelman/book/gelman_quotes.pdf)   
 
-"Q: You aren't an epidemiologist. Why should I listen to you?"   
-"A: You probably shouldn't. I'm a computer scientist and I've spend decades analysing data, but you should talk to a real epidemiologist if you want to understand the underlying causes. Computer scientists do know a lot about exponential growth though."   
-http://nrg.cs.ucl.ac.uk/mjh/covid19/  
-
 "In God we trust. All others must bring data."   
 – W. Edwards Deming
 
@@ -72,7 +68,7 @@ Coding
 The remaining 10 percent of the code accounts for the other 90 percent of the development time."  
 — Tom Cargill
 
-"Smart data structures and dumb code works a lot better than the other way around."   
+"Smart data structures and dumb code work a lot better than the other way around."   
 — Eric S. Raymond, The Cathedral and The Bazaar
 
 "Bad programmers worry about the code.   
@@ -108,7 +104,7 @@ If you don't unpack understanding when you need to, you'll do the wrong thing."
 "The art of debugging is figuring out what you really told your program to do rather than what you thought you told it to do."  
 — Andrew Singer
 
-"I’m not a big visionary. I’m a very plodding pedestrian engineer, and I try to keep my eyes firmly on the ground. I’ll let others make the big predictions about where we’ll be in 5, 10 or 25 years—I think we’ll do fine as long as we keep track of all the small day-to-day details, and try to do the best we can."  
+"I’m not a big visionary. I’m a very plodding pedestrian engineer, and I try to keep my eyes firmly on the ground. I’ll let others make the big predictions about where we’ll be in 5, 10, or 25 years—I think we’ll do fine as long as we keep track of all the small day-to-day details, and try to do the best we can."  
 — Linus Torvalds 
 
 "The best new ideas live at the boundary between the real world and software."  
@@ -162,7 +158,7 @@ Rey: "Why? I've seen your daily routine; you are not busy."
 
 Will McAvoy: "You have ink on your face."  
 Mackenzie MacHale: "I WORK WITH PENS!"  
-(I have often have dry earser marker on me when I teach)    
+(I often have dry eraser marker on me when I teach.)    
 — The Newsroom
 
 ----
@@ -208,7 +204,7 @@ Life
 “I’m no genius, but I’m smart in spots and I stay around those spots.”  
 — Watson, Sr.
 
-"For every complex problem there is an answer that is clear, simple, and wrong."  
+"For every complex problem, there is an answer that is clear, simple, and wrong."  
 — H. L. Mencken
 
 "There is more truth in the lightning that defines our path a handful of times in our life than in all of the ordinary light combined."  
@@ -262,10 +258,10 @@ Life
 "A bet is a tax on bullshit.”  
 — Alex Tabarrok
 
-"The true skill is not coming up with good ideas, it's being clever and creative enough to figure out quick, cheap and easy ways to test all your bad ideas."  
+"The true skill is not coming up with good ideas, it's being clever and creative enough to figure out quick, cheap, and easy ways to test all your bad ideas."  
 — Marc Randolph  
 
-"What's the name for a company that can be valued billion dollars before they see a dime in revenue?  
+"What's the name for a company that can be valued at a billion dollars before they see a dime in revenue?  
 A Panda — By all laws of nature they should no longer exist, but due to human intervention, they do."  
 — Internet forums
 
