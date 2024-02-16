@@ -187,7 +187,7 @@ Life
 "There is no amount of work you could do today that will offset the progress you could have made in a properly structured week."   
 — Chris Sommer  
 
-"The difference between theory and practice is always greater in practice than it is in theory."
+"The difference between theory and practice is always greater in practice than it is in theory."  
 — Unknown
 
 "Living is worthwhile if one can contribute in some small way to this endless chain of progress."   
