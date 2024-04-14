@@ -34,7 +34,6 @@ Being model-driven is like using GPS.”
 
 "As you know from teaching introductory statistics, 30 is infinity."    
 — Andrew Gelman   
-Many other statistical gems [here](http://www.stat.columbia.edu/~gelman/book/gelman_quotes.pdf)   
 
 "In God we trust. All others must bring data."   
 – W. Edwards Deming
@@ -295,3 +294,4 @@ Collections of other quotes
 - [Programming quotes curated by Ronalds Vilciņš](https://www.ronaldsvilcins.com/2020/12/10/programming-quotes/)
 - [Peter Norvig's quotations](https://norvig.com/quotations.html)  
 - [Akin's Laws of Spacecraft Design](https://spacecraft.ssl.umd.edu/akins_laws.html)
+   
