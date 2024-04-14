@@ -195,8 +195,8 @@ Life
 "I'm here to help - if my help's not appreciated then lotsa luck, gentlemen."  
 — The Wolf from Pulp Fiction   
 
-"Not my circus, not my monkeys."  
-— Polish proverb - Nie mój cyrk, nie moje małpy
+"Nie mój cyrk, nie moje małpy", translated as "Not my circus, not my monkeys."  
+— Polish proverb  
 
 "The clock does not stop, of course, but we do not hear the ticking."  
 — Gary Eberle
