@@ -189,7 +189,7 @@ Life
 — Paul Dirac
 
 "A little bit of slope makes up for a lot of y-intercept."  
-— John Ousterhout [source](https://gist.github.com/gtallen1187/e83ed02eac6cc8d7e185)
+— John Ousterhout 
 
 "I'm here to help - if my help's not appreciated then lotsa luck, gentlemen."  
 — The Wolf from Pulp Fiction   
