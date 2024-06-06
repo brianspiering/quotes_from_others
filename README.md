@@ -191,6 +191,9 @@ Life
 "A little bit of slope makes up for a lot of y-intercept."  
 — John Ousterhout 
 
+"Little and often over the long haul."  
+— Dan John  
+
 "I'm here to help - if my help's not appreciated then lotsa luck, gentlemen."  
 — The Wolf from Pulp Fiction   
 
