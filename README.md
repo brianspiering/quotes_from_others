@@ -200,6 +200,9 @@ Life
 "Nie mój cyrk, nie moje małpy", translated as "Not my circus, not my monkeys."  
 — Polish proverb  
 
+"And those who were seen dancing were thought to be insane by those who could not hear the music."  
+— Friedrich Nietzsche  
+
 "The clock does not stop, of course, but we do not hear the ticking."  
 — Gary Eberle
 
