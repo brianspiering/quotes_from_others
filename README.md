@@ -52,7 +52,14 @@ Coding
 — A smart, unknown programmer
 
 "Computer science education cannot make anybody an expert programmer any more than studying brushes and pigment can make somebody an expert painter."  
-— Eric Raymond, author of The New Hacker's Dictionary
+— Eric S. Raymond, author of The New Hacker's Dictionary
+
+"Smart data structures and dumb code work a lot better than the other way around."   
+— Eric S. Raymond, The Cathedral and The Bazaar
+
+"Bad programmers worry about the code.   
+Good programmers worry about data structures and their relationships."  
+— Linus Torvalds
 
 "Engineers believe that if it ain’t broke, it doesn’t have enough features yet."  
 — Scott Adams
@@ -66,13 +73,6 @@ Coding
 "The first 90 percent of the code accounts for the first 90 percent of the development time.  
 The remaining 10 percent of the code accounts for the other 90 percent of the development time."  
 — Tom Cargill
-
-"Smart data structures and dumb code work a lot better than the other way around."   
-— Eric S. Raymond, The Cathedral and The Bazaar
-
-"Bad programmers worry about the code.   
-Good programmers worry about data structures and their relationships."  
-— Linus Torvalds
 
 "2% of what we do is interesting.  
 98% is sort, select, sum."   
