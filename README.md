@@ -133,8 +133,14 @@ Rey: "Why? I've seen your daily routine; you are not busy."
 "Never lecture on something students can read instead."   
 — David Pengelley from _From lecture to active learning: Rewards for all, and is it really so difficult?_
 
+"While we teach, we learn."   
+— Seneca the Younger  
+
 "I've got a lot to teach but even more to learn."   
 — Slug from Atmosphere
+
+"Teaching, like writing, has helped me develop and clarify my own thoughts. Charlie Munger calls this phenomenon the orangutan effect: If you sit down with an orangutan and carefully explain to it one of your cherished ideas, you may leave behind a puzzled primate, but will yourself exit thinking more clearly."   
+— Warren Buffet, Berkshire Hathaway 2021 Annual Report  
 
 "Sufficiently advanced cheating is indistinguishable from learning."  
 — Jan Schaumann @jschauma  
@@ -151,9 +157,6 @@ Rey: "Why? I've seen your daily routine; you are not busy."
 
 "The skill of writing is to create a context in which other people can think."  
 — Edwin Schlossberg
-
-"Teaching, like writing, has helped me develop and clarify my own thoughts. Charlie Munger calls this phenomenon the orangutan effect: If you sit down with an orangutan and carefully explain to it one of your cherished ideas, you may leave behind a puzzled primate, but will yourself exit thinking more clearly."   
-— Warren Buffet, Berkshire Hathaway 2021 Annual Report  
 
 "Under pressure, we don’t rise to the level of our expectations, we fall to the level of our training."   
 – Archilochus  
