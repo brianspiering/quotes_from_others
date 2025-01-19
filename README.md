@@ -161,6 +161,9 @@ Rey: "Why? I've seen your daily routine; you are not busy."
 "Under pressure, we don’t rise to the level of our expectations, we fall to the level of our training."   
 – Archilochus  
 
+"The job of the teacher is to create the conditions for the student to explore their incompetence long enough to learn something useful."  
+— Seth Godin  
+
 Will McAvoy: "You have ink on your face."  
 Mackenzie MacHale: "I WORK WITH PENS!"  
 (I often have dry eraser marker on me when I teach.)    
