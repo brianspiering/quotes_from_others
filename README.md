@@ -188,6 +188,9 @@ Life
 "Behind mountains are more mountains."  
 — Creole proverb  
 
+“You can learn the technique, but passion is cultivated through dedication, love, pride, and respect in your work.”  
+— Piero Bambi  
+
 "There is no amount of work you could do today that will offset the progress you could have made in a properly structured week."   
 — Chris Sommer  
 
