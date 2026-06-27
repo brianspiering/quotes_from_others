@@ -288,6 +288,9 @@ A Panda — By all laws of nature they should no longer exist, but due to human 
 "Forgiveness means giving up all hope of a better past for the possibility of a better future."  
 — Unknown
 
+"Time spent amongst trees is never wasted time."  
+— Katrina Mayer
+
 “The real problem of humanity is the following: we have paleolithic emotions; medieval institutions; and god-like technology. And it is terrifically dangerous, and it is now approaching a point of crisis overall."  
 — E. O. Wilson
 
