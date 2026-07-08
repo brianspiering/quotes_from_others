@@ -119,8 +119,8 @@ We believe in: rough consensus and running code."
 "…highly polarized opinions about languages and frameworks are characteristic of people who lack real-world programming experience and are more interested in building an identity than creating computer programs."   
 — https://github.com/nukeop
 
-"Grant me the serenity to accept the bad code I shouldn't fix, 
-the courage to change the code I can, 
+"Grant me the serenity to accept the bad code I shouldn't fix,  
+the courage to change the code I can,   
 and the wisdom to know the difference."   
 — A prohet on the interwebs
 
