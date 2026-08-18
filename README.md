@@ -135,6 +135,9 @@ Rey: "Why? I've seen your daily routine; you are not busy."
 "We are currently preparing students for jobs that don’t yet exist, using technologies that haven’t been invented, in order to solve problems we don’t even know are problems yet."  
 —  Richard Riley  
 
+"Lessons are never finished: they are just delivered."  
+— Every experienced teacher
+
 "Never lecture on something students can read instead."   
 — David Pengelley from _From lecture to active learning: Rewards for all, and is it really so difficult?_
 
