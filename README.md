@@ -29,7 +29,7 @@ Data
 Being model-driven is like using GPS.”   
 — Nick Elprin
 
-"All data is linear when plotted on a log-log plot with fat marker."  
+"All data is linear when plotted on a log-log plot with a fat marker."  
 — Mar's Law
 
 "As you know from teaching introductory statistics, 30 is infinity."    
@@ -147,8 +147,11 @@ Rey: "Why? I've seen your daily routine; you are not busy."
 "I've got a lot to teach but even more to learn."   
 — Slug from Atmosphere
 
+"Still got so much to learn, still feel alive"   
+— Jason Isbell
+
 "Teaching, like writing, has helped me develop and clarify my own thoughts. Charlie Munger calls this phenomenon the orangutan effect: If you sit down with an orangutan and carefully explain to it one of your cherished ideas, you may leave behind a puzzled primate, but will yourself exit thinking more clearly."   
-— Warren Buffet, Berkshire Hathaway 2021 Annual Report  
+— Warren Buffett, Berkshire Hathaway 2021 Annual Report  
 
 "Sufficiently advanced cheating is indistinguishable from learning."  
 — Jan Schaumann @jschauma  
@@ -157,7 +160,7 @@ Rey: "Why? I've seen your daily routine; you are not busy."
 1. You can deny them (which is what most people do).     
 2. You can accept them and work at them in order to try to convert them to strengths (which might or might not work depending on your ability to change).     
 3. You can accept your weaknesses and find ways around them.     
-4. Or, you can change what you are going after. "     
+4. Or, you can change what you are going after."     
 — Ray Dalio 
 
 "Any drill that 75% of the people cannot catch on to right away has to be eliminated, no matter how good it is."  
@@ -174,7 +177,7 @@ Rey: "Why? I've seen your daily routine; you are not busy."
 
 Will McAvoy: "You have ink on your face."  
 Mackenzie MacHale: "I WORK WITH PENS!"  
-(I often have dry eraser marker on me when I teach.)    
+(I often have dry-erase marker on me when I teach.)    
 — The Newsroom
 
 ----
@@ -266,7 +269,7 @@ Life
 – Jerzy Gregorek
 
 “It is better to be approximately right, than precisely wrong.”  
-– Warren Buffet
+– Warren Buffett
 
 "Only recruit two things: speed and smarts. You can teach everything else."   
 — Ralph Maughan
@@ -274,7 +277,7 @@ Life
 "The future is already here—it’s just not evenly distributed."   
 — William Gibson
 
-"Your lemons ripen first, you have to wait for juicy plums."  
+"Your lemons ripen first; you have to wait for juicy plums."  
 — Classic investing wisdom
 
 "What we have before us are some breathtaking opportunities disguised as insoluble problems."   
@@ -299,7 +302,7 @@ A Panda — By all laws of nature they should no longer exist, but due to human 
 "Time spent amongst trees is never wasted time."  
 — Katrina Mayer
 
-“The real problem of humanity is the following: we have paleolithic emotions; medieval institutions; and god-like technology. And it is terrifically dangerous, and it is now approaching a point of crisis overall."  
+“The real problem of humanity is the following: we have Paleolithic emotions; medieval institutions; and god-like technology. And it is terrifically dangerous, and it is now approaching a point of crisis overall."  
 — E. O. Wilson
 
 "Do what you can,   
@@ -316,7 +319,7 @@ Help who you can"
 — Stephen King
 
 -----
-Collections of other quotes
+Collections of other quotes that inspire me
 -----
 
 - [Programming Bumper Stickers / Programming Pearls](http://www.bowdoin.edu/~ltoma/teaching/cs340/spring05/coursestuff/Bentley_BumperSticker.pdf)
